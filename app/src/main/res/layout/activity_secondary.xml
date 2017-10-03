@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="16dp"
+    android:text="Press the home button and open the settings app.\n\n
+Change the device time to night (if it's day) or day (if it's night) and switch back to this activity to notice the theme change.\n\n
+Then, navigate back to the main activity and notice the inconsistent theme."/>
